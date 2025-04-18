@@ -1,10 +1,7 @@
 #include<stdio.h>
 int main()
 {
-<<<<<<< HEAD
     printf("this id deepita");
-}
-=======
+
 printf("First change by venu");
 }
->>>>>>> c3d549a (first change by venu)
