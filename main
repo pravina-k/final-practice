@@ -5,12 +5,15 @@ int main()
 
 printf("First change by venu");
 <<<<<<< HEAD
+<<<<<<< HEAD
 printf("seconf change by venu");
 
     printf("this end deepita");
     printf("lets welcome deepita");
     printf("welcome venusree");
 printf("third change by venu");
+=======
+>>>>>>> parent of 218dd1e (second change by venu)
 =======
 >>>>>>> parent of 218dd1e (second change by venu)
 }
