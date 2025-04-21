@@ -4,10 +4,13 @@ int main()
     printf("this id deepita");
 
 printf("First change by venu");
+<<<<<<< HEAD
 printf("seconf change by venu");
 
     printf("this end deepita");
     printf("lets welcome deepita");
     printf("welcome venusree");
 printf("third change by venu");
+=======
+>>>>>>> parent of 218dd1e (second change by venu)
 }
